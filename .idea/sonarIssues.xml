@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/components/collection-preview/collection-preview.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/components/directory/directory.component.jsx">
           <value>
             <set />
@@ -58,6 +63,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/homepage.component.jsx">
           <value>
             <set />
@@ -84,6 +94,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/pages/homepage/homepage.styles.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/pages/shop/shop.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/pages/shop/shop.data.js">
           <value>
             <set />
           </value>
