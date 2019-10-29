@@ -28,7 +28,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/components/collection-item/collection-item.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/collection-item/collection-item.sytles.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/components/collection-preview/collection-preview.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/collection-preview/collection-preview.styles.scss">
           <value>
             <set />
           </value>
