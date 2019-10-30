@@ -48,12 +48,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/components/custom-button/custom-button.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/custom-button/custom-button.styles.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/components/directory/directory.component.jsx">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/components/directory/directory.styles.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/form-input/form-input.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/form-input/form-input.styles.scss">
           <value>
             <set />
           </value>
@@ -89,6 +109,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/components/preview-collection/preview-collection.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/sign-in/sign-in.component.jsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/components/sign-in/sign-in.styles.scss">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/firebase/firebase.utils.js">
           <value>
             <set />
           </value>
@@ -129,6 +164,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/pages/shop/shop.data.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx">
           <value>
             <set />
           </value>
